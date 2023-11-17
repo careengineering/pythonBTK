@@ -3,47 +3,47 @@ Sıfırdan İleri Seviye Python Programlama - Sadık Turan
 
 Müfredat 
 
-1. Tanıtım
+:thumbsup:1. Tanıtım
 
 :thumbsup:1.1_Sıfırdan İleri Seviye Python Programlama Giriş
 
-1.2_Kursa Nasıl Çalışmalıyım?
+:thumbsup:1.2_Kursa Nasıl Çalışmalıyım?
 
-1.3_Python Nedir?
-
-
-2. Gerekli Ortamın Hazırlanması
-
-2.1_Python Kurulumu
-
-2.2_Python İçin Editör Kurulumu
-
-2.3_Komut İstemi Programının Kullanımı
-
-2.4_İlk Python Uygulaması
+:thumbsup:1.3_Python Nedir?
 
 
-3. Python Objeleri ve Veri Yapıları
+:thumbsup:2. Gerekli Ortamın Hazırlanması
 
-3.1_Pythonda Sayı Veri Tipleri
+:thumbsup:2.1_Python Kurulumu
 
-3.2_Pythonda Matematiksel Operatörler
+:thumbsup:2.2_Python İçin Editör Kurulumu
 
-3.3_Pythonda Değişken Tanımlama
+:thumbsup:2.3_Komut İstemi Programının Kullanımı
 
-3.4_Uygulama - Değişken Tanımlama
+:thumbsup:2.4_İlk Python Uygulaması
 
-3.5_Pythonda Veri Tipi Dönüşümleri
 
-3.6_Veri Tipi Dönüşümleri
+:thumbsup:3. Python Objeleri ve Veri Yapıları
 
-3.7_Pythonda Karakter Dizileri - Strings
+:thumbsup:3.1_Pythonda Sayı Veri Tipleri
 
-3.8_Pythonda String Formatlama
+:thumbsup:3.2_Pythonda Matematiksel Operatörler
 
-3.9_Uygulama - Karakter Dizileri
+:thumbsup:3.3_Pythonda Değişken Tanımlama
 
-3.10_Pythonda String Metotları
+:thumbsup:3.4_Uygulama - Değişken Tanımlama
+
+:thumbsup:3.5_Pythonda Veri Tipi Dönüşümleri
+
+:thumbsup:3.6_Veri Tipi Dönüşümleri
+
+:thumbsup:3.7_Pythonda Karakter Dizileri - Strings
+
+:thumbsup:3.8_Pythonda String Formatlama
+
+:thumbsup:3.9_Uygulama - Karakter Dizileri
+
+:thumbsup:3.10_Pythonda String Metotları
 
 3.11_Uygulama - String Metotları
 
