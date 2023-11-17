@@ -1,49 +1,50 @@
-# BTK Akademi
-Sıfırdan İleri Seviye Python Programlama - Sadık Turan 
+BTK Akademi
+Sıfırdan İleri Seviye Python Programlama
+Sadık Turan 
 
 Müfredat 
 
-:thumbsup:1. Tanıtım
+1. Tanıtım :thumbsup:
 
-:thumbsup:1.1_Sıfırdan İleri Seviye Python Programlama Giriş
+1.1_Sıfırdan İleri Seviye Python Programlama Giriş :thumbsup:
 
-:thumbsup:1.2_Kursa Nasıl Çalışmalıyım?
+1.2_Kursa Nasıl Çalışmalıyım? :thumbsup:
 
-:thumbsup:1.3_Python Nedir?
-
-
-:thumbsup:2. Gerekli Ortamın Hazırlanması
-
-:thumbsup:2.1_Python Kurulumu
-
-:thumbsup:2.2_Python İçin Editör Kurulumu
-
-:thumbsup:2.3_Komut İstemi Programının Kullanımı
-
-:thumbsup:2.4_İlk Python Uygulaması
+1.3_Python Nedir? :thumbsup:
 
 
-:thumbsup:3. Python Objeleri ve Veri Yapıları
+2. Gerekli Ortamın Hazırlanması :thumbsup:
 
-:thumbsup:3.1_Pythonda Sayı Veri Tipleri
+2.1_Python Kurulumu :thumbsup:
 
-:thumbsup:3.2_Pythonda Matematiksel Operatörler
+2.2_Python İçin Editör Kurulumu :thumbsup:
 
-:thumbsup:3.3_Pythonda Değişken Tanımlama
+2.3_Komut İstemi Programının Kullanımı :thumbsup:
 
-:thumbsup:3.4_Uygulama - Değişken Tanımlama
+2.4_İlk Python Uygulaması :thumbsup:
 
-:thumbsup:3.5_Pythonda Veri Tipi Dönüşümleri
 
-:thumbsup:3.6_Veri Tipi Dönüşümleri
+3. Python Objeleri ve Veri Yapıları
 
-:thumbsup:3.7_Pythonda Karakter Dizileri - Strings
+3.1_Pythonda Sayı Veri Tipleri :thumbsup:
 
-:thumbsup:3.8_Pythonda String Formatlama
+3.2_Pythonda Matematiksel Operatörler :thumbsup:
 
-:thumbsup:3.9_Uygulama - Karakter Dizileri
+3.3_Pythonda Değişken Tanımlama :thumbsup:
 
-:thumbsup:3.10_Pythonda String Metotları
+3.4_Uygulama - Değişken Tanımlama :thumbsup:
+
+3.5_Pythonda Veri Tipi Dönüşümleri :thumbsup:
+
+3.6_Veri Tipi Dönüşümleri :thumbsup:
+
+3.7_Pythonda Karakter Dizileri - Strings :thumbsup:
+
+3.8_Pythonda String Formatlama :thumbsup:
+
+3.9_Uygulama - Karakter Dizileri :thumbsup:
+
+3.10_Pythonda String Metotları :thumbsup:
 
 3.11_Uygulama - String Metotları
 
