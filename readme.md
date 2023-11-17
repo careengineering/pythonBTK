@@ -5,7 +5,7 @@ Müfredat
 
 1. Tanıtım
 
-1.1_Sıfırdan İleri Seviye Python Programlama Giriş
+:thumbsup:1.1_Sıfırdan İleri Seviye Python Programlama Giriş
 
 1.2_Kursa Nasıl Çalışmalıyım?
 
