@@ -5,16 +5,16 @@ Müfredat
 
 1. Tanıtım
 
-:thumbsup:1.1_Sıfırdan İleri Seviye Python Programlama Giriş
+1.1_Sıfırdan İleri Seviye Python Programlama Giriş
 
-:thumbsup:1.2_Kursa Nasıl Çalışmalıyım?
+1.2_Kursa Nasıl Çalışmalıyım?
 
-:thumbsup:1.3_Python Nedir?
+1.3_Python Nedir?
 
 
 2. Gerekli Ortamın Hazırlanması
 
-:thumbsup:2.1_Python Kurulumu
+2.1_Python Kurulumu
 
 2.2_Python İçin Editör Kurulumu
 
