@@ -1,5 +1,6 @@
 # BTK Akademi
-Sıfırdan İleri Seviye Python Programlama - Sadık Turan 
+Sıfırdan İleri Seviye Python Programlama
+Sadık Turan 
 
 Müfredat 
 
