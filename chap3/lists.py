@@ -1,4 +1,4 @@
-# message = "Hello There. My name is Sema İnal".split()
+# message = "Hello There. My name is Aaaa Bbbb".split()
 # print(message[0])
 
 

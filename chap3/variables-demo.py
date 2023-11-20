@@ -13,14 +13,14 @@ Müşteri yaşı
 """
 
 
-musteriAd = "Sema"
-musteriSoyad = "İnal"
+musteriAd = "aaa"
+musteriSoyad = "bbb"
 musteriAdSoyad = musteriAd + " " +musteriSoyad 
 musteriCinsiyet = True #Kadın
-musteriTCKimlik = "41146557980"
-musteriDogumYili = 1985
-musteriAdres = "Bahçeşehir"
-musteriYasi = 2020 - musteriDogumYili
+musteriTCKimlik = "12345678900"
+musteriDogumYili = 1900
+musteriAdres = "ccc"
+musteriYasi = 2023 - musteriDogumYili
 
 
 

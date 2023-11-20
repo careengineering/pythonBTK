@@ -14,22 +14,23 @@
 # print(plakalar)
 
 users = {
-"Sema İnal" : 
+"aaaa bbbb" :
  {"age" :35,
  "roles": ["admin", "user"],
-  "email": "semainal35@gmail.com",
+  "email": "aaaabbbb@gmail.com",
   "address": "izmir",
-  "phone" : 5443217307 
+  "phone" : 1234567890
  },
 
- "Tolga İnal":
+ "cccc dddd":
  {"age": 35,
  "roles": ["user"],
- "email": "inal.tolga@gmail.com",
+ "email": "ccccdddd@gmail.com",
  "address": "istanbul",
- "phone": 5443217308
+ "phone": 9876543210
  }
 }
 
 
-print(users["Sema İnal"]["roles"])
+print(users["aaaa bbbb"]["age"])
+print(users["aaaa bbbb"]["roles"])

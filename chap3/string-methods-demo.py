@@ -1,6 +1,8 @@
 # 1 
 # message = " Hello World "
 # message = message.strip()
+# message = message.lstrip()
+# message = message.r strip()
 # print(message)
 
 # 2
@@ -26,6 +28,9 @@
 # 6
 # website = "http://www.sadikturan.com"
 # message = website.find(".com")
+# message = website.find(".com",0,10)
+# message = website.rfind(".com")
+
 #message = website.index("com") - index bilgisini verir
 #message = website.rindex("com") - right
 #message = website.lindex("com") - left
@@ -50,7 +55,7 @@
 # message = course.replace(" ","-","5") - sadece 5 karaktere koyar, sonrasını yine boşluk bırakır
 
 
-10
+# 10
 message ="Hello World"
 message = message.replace("World","There")
 print(message)
