@@ -3,63 +3,63 @@ Sıfırdan İleri Seviye Python Programlama - Sadık Turan
 
 Müfredat 
 
-1. Tanıtım
+1. Tanıtım :thumbsup:
 
-:thumbsup:1.1_Sıfırdan İleri Seviye Python Programlama Giriş
+1.1_Sıfırdan İleri Seviye Python Programlama Giriş :thumbsup:
 
-1.2_Kursa Nasıl Çalışmalıyım?
+1.2_Kursa Nasıl Çalışmalıyım? :thumbsup:
 
-1.3_Python Nedir?
+1.3_Python Nedir? :thumbsup:
 
 
-2. Gerekli Ortamın Hazırlanması
+2. Gerekli Ortamın Hazırlanması :thumbsup:
 
-2.1_Python Kurulumu
+2.1_Python Kurulumu :thumbsup:
 
-2.2_Python İçin Editör Kurulumu
+2.2_Python İçin Editör Kurulumu :thumbsup:
 
-2.3_Komut İstemi Programının Kullanımı
+2.3_Komut İstemi Programının Kullanımı :thumbsup:
 
-2.4_İlk Python Uygulaması
+2.4_İlk Python Uygulaması :thumbsup:
 
 
 3. Python Objeleri ve Veri Yapıları
 
-3.1_Pythonda Sayı Veri Tipleri
+3.1_Pythonda Sayı Veri Tipleri :thumbsup:
 
-3.2_Pythonda Matematiksel Operatörler
+3.2_Pythonda Matematiksel Operatörler :thumbsup:
 
-3.3_Pythonda Değişken Tanımlama
+3.3_Pythonda Değişken Tanımlama :thumbsup:
 
-3.4_Uygulama - Değişken Tanımlama
+3.4_Uygulama - Değişken Tanımlama :thumbsup:
 
-3.5_Pythonda Veri Tipi Dönüşümleri
+3.5_Pythonda Veri Tipi Dönüşümleri :thumbsup:
 
-3.6_Veri Tipi Dönüşümleri
+3.6_Veri Tipi Dönüşümleri :thumbsup:
 
-3.7_Pythonda Karakter Dizileri - Strings
+3.7_Pythonda Karakter Dizileri - Strings :thumbsup:
 
-3.8_Pythonda String Formatlama
+3.8_Pythonda String Formatlama :thumbsup:
 
-3.9_Uygulama - Karakter Dizileri
+3.9_Uygulama - Karakter Dizileri :thumbsup:
 
-3.10_Pythonda String Metotları
+3.10_Pythonda String Metotları :thumbsup:
 
-3.11_Uygulama - String Metotları
+3.11_Uygulama - String Metotları :thumbsup:
 
-3.12_Pythonda Listeler
+3.12_Pythonda Listeler :thumbsup:
 
-3.13_Uygulama - Python Listeler
+3.13_Uygulama - Python Listeler :thumbsup:
 
-3.14_Pythonda Liste Metotları
+3.14_Pythonda Liste Metotları :thumbsup:
 
-3.15_Uygulama - Python Liste Metotları
+3.15_Uygulama - Python Liste Metotları :thumbsup:
 
-3.16_Pythonda Tuple
+3.16_Pythonda Tuple :thumbsup:
 
-3.17_Pythonda Dictionary
+3.17_Pythonda Dictionary :thumbsup:
 
-3.18_Uygulama - Python Dictionary
+3.18_Uygulama - Python Dictionary :thumbsup:
 
 3.19_Pythonda Sets
 
