@@ -24,7 +24,7 @@ Müfredat
 2.4_İlk Python Uygulaması :thumbsup:
 
 
-3. Python Objeleri ve Veri Yapıları
+3. Python Objeleri ve Veri Yapıları :thumbsup:
 
 3.1_Pythonda Sayı Veri Tipleri :thumbsup:
 
@@ -64,7 +64,7 @@ Müfredat
 
 3.19_Pythonda Sets :thumbsup:
 
-3.20_Pythonda Value ve Referans Veri Tipleri
+3.20_Pythonda Value ve Referans Veri Tipleri :thumbsup:
 
 
 4. Python Operatörleri
