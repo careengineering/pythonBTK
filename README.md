@@ -95,25 +95,25 @@ Müfredat
 5.4_Uygulama 2 - Koşullu İfadeler :thumbsup:
 
 
-6. Pythonda Döngüler
+6. Pythonda Döngüler :thumbsup:
 
-6.1_Pythonda For Döngüleri
+6.1_Pythonda For Döngüleri :thumbsup:
 
-6.2_Uygulama - Pythonda For Döngüleri
+6.2_Uygulama - Pythonda For Döngüleri :thumbsup:
 
-6.3_Pythonda While Döngüleri
+6.3_Pythonda While Döngüleri :thumbsup:
 
-6.4_Uygulama - While Döngüleri
+6.4_Uygulama - While Döngüleri :thumbsup:
 
-6.5_Break ve Continue İfadeleri
+6.5_Break ve Continue İfadeleri :thumbsup:
 
-6.6_Döngü Metotları - range(), enumerate(), zip()
+6.6_Döngü Metotları - range(), enumerate(), zip() :thumbsup:
 
-6.7_Pythonda List Comprehensions
+6.7_Pythonda List Comprehensions :thumbsup:
 
-6.8_Uygulama - Sayı Tahmin Uygulaması
+6.8_Uygulama - Sayı Tahmin Uygulaması :thumbsup:
 
-6.9_Uygulama - Asal Sayı Uygulaması
+6.9_Uygulama - Asal Sayı Uygulaması :thumbsup:
 
 
 7. Pythonda Fonksiyonlar
