@@ -84,15 +84,15 @@ Müfredat
 4.7_Diğer Python Operatörleri :thumbsup:
 
 
-5. Pythonda Koşul İfadeleri
+5. Pythonda Koşul İfadeleri :thumbsup:
 
-5.1_Koşullu Durum Blokları - If ve Else Blokları
+5.1_Koşullu Durum Blokları - If ve Else Blokları :thumbsup:
 
-5.2_Koşullu Durum Blokları - If - Elif - Else Blokları
+5.2_Koşullu Durum Blokları - If - Elif - Else Blokları :thumbsup:
 
-5.3_Uygulama 1 - Koşullu İfadeler
+5.3_Uygulama 1 - Koşullu İfadeler :thumbsup:
 
-5.4_Uygulama 2 - Koşullu İfadeler
+5.4_Uygulama 2 - Koşullu İfadeler :thumbsup:
 
 
 6. Pythonda Döngüler
