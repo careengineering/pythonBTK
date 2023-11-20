@@ -12,12 +12,12 @@ message = "Hello there. My name is aaaa bbb"
 # message = message.split() -cümleyi ayırdım, joinle her kelime arasına yıldız koydum.
 # message = "*".join(message)
 
-# index = message.find("Sema") - ilk başladığı index numarasını verir.
+# index = message.find("aaaa") - ilk başladığı index numarasını verir.
 
 # isFound = message.startswith("H") - başlayan harfi
 # isFound = message.endswith("o") - biten harf
 
-# message = message.replace("Sema","Melis") - değiştirme
+# message = message.replace("aaaa","Melis") - değiştirme
 # message = message.replace("ç","c").replace("ö","o")
 
 # message = message.center(100,"*") -mesajı ortalayıp, 100 karakterlik bir container oluşturuyor.*ların ortasına ortalıyor.

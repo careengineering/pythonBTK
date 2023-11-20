@@ -12,8 +12,8 @@
 # numbers = list1 + list2
 # print(numbers)
 
-userA = ["Sema", 35]
-userB = ["Tolga",35]
+userA = ["aaaa", 35]
+userB = ["bbbb",35]
 
 users = userA + userB
 # users = [userA, userB] - liste içinde liste oluşur.

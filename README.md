@@ -67,21 +67,21 @@ Müfredat
 3.20_Pythonda Value ve Referans Veri Tipleri :thumbsup:
 
 
-4. Python Operatörleri
+4. Python Operatörleri :thumbsup:
 
-4.1_Atama Operatörleri
+4.1_Atama Operatörleri :thumbsup:
 
-4.2_Uygulama - Atama Operatörleri
+4.2_Uygulama - Atama Operatörleri :thumbsup:
 
-4.3_Karşılaştırma Operatörleri
+4.3_Karşılaştırma Operatörleri :thumbsup:
 
-4.4_Uygulama - Karşılaştırma Operatörleri
+4.4_Uygulama - Karşılaştırma Operatörleri :thumbsup:
 
-4.5_Mantıksal Operatörler
+4.5_Mantıksal Operatörler :thumbsup:
 
-4.6_Uygulama - Mantıksal Operatörler
+4.6_Uygulama - Mantıksal Operatörler :thumbsup:
 
-4.7_Diğer Python Operatörleri
+4.7_Diğer Python Operatörleri :thumbsup:
 
 
 5. Pythonda Koşul İfadeleri

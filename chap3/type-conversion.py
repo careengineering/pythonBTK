@@ -13,7 +13,7 @@ print(toplam)
 
 x = 5      
 y = 2.5     
-name = "Tolga"      
+name = "bbbb"      
 isOnline = True  
 
 # print(type(x))
