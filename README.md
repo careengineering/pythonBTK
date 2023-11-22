@@ -159,15 +159,15 @@ Müfredat
 9.4_Kendi Modülümüzü Yazalım :thumbsup:
 
 
-10. Pythonda Hata ve Hata Yönetimi
+10. Pythonda Hata ve Hata Yönetimi :thumbsup:
 
-10.1_Hata ve Hata Yönetimi Nedir?
+10.1_Hata ve Hata Yönetimi Nedir? :thumbsup:
 
-10.2_Hata Yönetimi
+10.2_Hata Yönetimi :thumbsup:
 
-10.3_ Hata Nesnesi Oluşturma
+10.3_ Hata Nesnesi Oluşturma :thumbsup:
 
-10.4_Uygulama - Hata ve Hata Yönetimi
+10.4_Uygulama - Hata ve Hata Yönetimi :thumbsup:
 
 
 11. Pythonda Dosya Yönetimi
