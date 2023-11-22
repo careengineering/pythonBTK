@@ -133,19 +133,19 @@ Müfredat
 7.7_Uygulama - Bankamatik :thumbsup:
 
 
-8. Pythonda Nesne Tabanlı Programlama
+8. Pythonda Nesne Tabanlı Programlama :thumbsup:
 
-8.1_Nesne Tabanlı Programlama Nedir?
+8.1_Nesne Tabanlı Programlama Nedir? :thumbsup:
 
-8.2_Nesne Tabanlı Programlama - Sınıflar
+8.2_Nesne Tabanlı Programlama - Sınıflar :thumbsup:
 
-8.3_Nesne Tabanlı Programlama - Metotlar
+8.3_Nesne Tabanlı Programlama - Metotlar :thumbsup:
 
-8.4_Nesne Tabanlı Programlama - Kalıtım
+8.4_Nesne Tabanlı Programlama - Kalıtım :thumbsup:
 
-8.5_Nesne Tabanlı Programlama - Özel Metotlar
+8.5_Nesne Tabanlı Programlama - Özel Metotlar :thumbsup:
 
-8.6_Nesne Tabanlı Programlama - Quiz Uygulaması
+8.6_Nesne Tabanlı Programlama - Quiz Uygulaması :thumbsup:
 
 
 9. Pythonda Modüller
