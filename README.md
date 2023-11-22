@@ -116,21 +116,21 @@ Müfredat
 6.9_Uygulama - Asal Sayı Uygulaması :thumbsup:
 
 
-7. Pythonda Fonksiyonlar
+7. Pythonda Fonksiyonlar :thumbsup:
 
-7.1_Pythonda Metotlar
+7.1_Pythonda Metotlar :thumbsup:
 
-7.2_Fonksiyon Kullanımı
+7.2_Fonksiyon Kullanımı :thumbsup:
 
-7.3_Fonksiyon Parametreleri
+7.3_Fonksiyon Parametreleri :thumbsup:
 
-7.4_Uygulama - Fonksiyonlar
+7.4_Uygulama - Fonksiyonlar :thumbsup:
 
-7.5_Lambda Expressions, Map ve Filter
+7.5_Lambda Expressions, Map ve Filter :thumbsup:
 
-7.6_Fonksiyonların Kapsamı - Global ve Yerel Değişkenler
+7.6_Fonksiyonların Kapsamı - Global ve Yerel Değişkenler :thumbsup:
 
-7.7_Uygulama - Bankamatik
+7.7_Uygulama - Bankamatik :thumbsup:
 
 
 8. Pythonda Nesne Tabanlı Programlama
