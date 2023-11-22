@@ -18,7 +18,7 @@
 #     name = new_name
 #     print(name)
 
-# changeName("Tolga")
+# changeName("Bbbb")
 # print(name)
 
 
@@ -31,7 +31,7 @@
 #     print("Merhaba "+ name)
 
 #     def hello():
-#         # name = "Tolga"
+#         # name = "Bbbb"
 #         print("Hello "+ name)
 
 #     hello()
