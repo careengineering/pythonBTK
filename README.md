@@ -148,15 +148,15 @@ Müfredat
 8.6_Nesne Tabanlı Programlama - Quiz Uygulaması :thumbsup:
 
 
-9. Pythonda Modüller
+9. Pythonda Modüller :thumbsup:
 
-9.1_Modül Nedir?
+9.1_Modül Nedir? :thumbsup:
 
-9.2_Hazır Modül Kullanımı - Math Modülü
+9.2_Hazır Modül Kullanımı - Math Modülü :thumbsup:
 
-9.3_Hazır Modül Kullanımı - Random Modülü
+9.3_Hazır Modül Kullanımı - Random Modülü :thumbsup:
 
-9.4_Kendi Modülümüzü Yazalım
+9.4_Kendi Modülümüzü Yazalım :thumbsup:
 
 
 10. Pythonda Hata ve Hata Yönetimi
