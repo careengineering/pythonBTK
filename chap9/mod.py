@@ -8,7 +8,7 @@ number = 10
 numbers = [1,2,3]
 
 person = {
-    "name": "Sema",
+    "name": "aaaa",
     "age": "35",
     "city": "istanbul"}
 

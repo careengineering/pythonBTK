@@ -40,9 +40,9 @@ class Teacher(Person):
     def who_am_i(self):
         print(f"I'm a {self.teacherBranch} teacher")
 
-p1 = Person("Sema", "İnal")
-s1 = Student("Melis","İnal", "523")
-t1 = Teacher("Tolga", "İnal", "Math")
+p1 = Person("aaaa", "bbbb")
+s1 = Student("cccc","ddddd", "523")
+t1 = Teacher("eeeee", "ffff", "Math")
 
 print(p1.firstName + " " +p1.lastName)
 print(s1.firstName + " " +s1.lastName + " "+ s1.studentNumber)

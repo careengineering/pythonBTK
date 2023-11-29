@@ -27,8 +27,8 @@
 
 # #instance (object)
 
-# p1 = Person(name ="Sema",year =1985)
-# p2 = Person(name="Tolga",year=1985)
+# p1 = Person(name ="aaaa",year =1985)
+# p2 = Person(name="bbbb",year=1985)
 
 # #updating
 # p1.name = "Melis"

@@ -170,17 +170,17 @@ Müfredat
 10.4_Uygulama - Hata ve Hata Yönetimi :thumbsup:
 
 
-11. Pythonda Dosya Yönetimi
+11. Pythonda Dosya Yönetimi :thumbsup:
 
-11.1_Pythonda Dosya Açma ve Yazma
+11.1_Pythonda Dosya Açma ve Yazma :thumbsup:
 
-11.2_Pythonda Dosya Okuma
+11.2_Pythonda Dosya Okuma :thumbsup:
 
-11.3_Pythonda Dosya Okuma Fonksiyonları
+11.3_Pythonda Dosya Okuma Fonksiyonları :thumbsup:
 
-11.4_Pythonda Dosyada Güncelleme Yapma
+11.4_Pythonda Dosyada Güncelleme Yapma :thumbsup:
 
-11.5_Uygulama - Öğrenci Kayıt Programı
+11.5_Uygulama - Öğrenci Kayıt Programı :thumbsup:
 
 
 12. Pythonda Fonksiyonların İleri Seviye Özellikleri
