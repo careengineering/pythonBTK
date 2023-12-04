@@ -194,14 +194,14 @@ Müfredat
 12.4_Pythonda Decorator Fonksiyonlar :thumbsup:
 
 
-13. Pythonda Iterators
+13. Pythonda Iterators :thumbsup:
 
-13.1_Pythonda Iterators
+13.1_Pythonda Iterators :thumbsup:
 
 
-14. Python Generators
+14. Python Generators :thumbsup:
 
-14.1_Pythonda Generators
+14.1_Pythonda Generators :thumbsup:
 
 
 15. İleri Seviye Python Modülleri & Web Scraping

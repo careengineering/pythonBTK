@@ -72,3 +72,28 @@ faktoriyel(4)
 toplama(2,2)
     
 
+# dersdışı deneme
+
+@calculate_time
+def faktoriyelFor(num):
+    result = 1
+    for i in range (1, num+1):
+        result *=i
+    print(result)
+
+
+
+@calculate_time
+def factoriyelYineleme(num):
+    def inner_factorial(num):
+        if num <=1:
+            return 1
+        return num * inner_factorial(num-1)
+
+    print(inner_factorial(num))
+
+
+
+faktoriyel(10) # en kısa 1.
+faktoriyelFor(10) # en kısa 2.
+factoriyelYineleme(10) # en kısa 3.
