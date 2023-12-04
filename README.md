@@ -183,15 +183,15 @@ Müfredat
 11.5_Uygulama - Öğrenci Kayıt Programı :thumbsup:
 
 
-12. Pythonda Fonksiyonların İleri Seviye Özellikleri
+12. Pythonda Fonksiyonların İleri Seviye Özellikleri :thumbsup:
 
-12.1_Pythonda İç içe Fonksiyon Kullanımı
+12.1_Pythonda İç içe Fonksiyon Kullanımı :thumbsup:
 
-12.2_Pythonda Fonksiyondan Fonksiyon Döndürme
+12.2_Pythonda Fonksiyondan Fonksiyon Döndürme :thumbsup:
 
-12.3_Pythonda Fonksiyonları Parametre Olarak Gönderme
+12.3_Pythonda Fonksiyonları Parametre Olarak Gönderme :thumbsup:
 
-12.4_Pythonda Decorator Fonksiyonlar
+12.4_Pythonda Decorator Fonksiyonlar :thumbsup:
 
 
 13. Pythonda Iterators
