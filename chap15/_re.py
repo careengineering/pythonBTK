@@ -7,27 +7,26 @@ import re
 
 str = "Python Kursu: Python Programlama Rehberiniz | 40 saat"
 
-# result = re.findall("Python",str)
-# result = len(result)
+# result = re.findall("Python",str) # ifadeyi aratma - liste olarak geri döndürür
+# result = len(result) # kaç tane bulduğunu öğrenme
 
-#re.split()
 
-# result = re.split(" ",str)
+# re.split()
+# result = re.split(" ",str) # boşluk karakter arar ve ifadeyi böler - liste olarak gelir
+
 
 #re.sub()
-
-# result = re.sub(" ","-",str)
-# result = re.sub("\s","*",str)
-
+# result = re.sub(" ","-",str) # tüm boşlukları tire yapar
+# result = re.sub("\s","*",str) # tüm \s boşluk demek tire yapar
 
 #re.search()
+# result = re.search("Python",str) #match objesi döner yerini gösterir span=(0,6)
 
-# result = re.search("Python",str)
-# result = result.span()
-# result = result.start()
-# result = result.end()
-# result = result.group()
-# result = result.string
+# result = result.span() # konumunu verir (0,6)
+# result = result.start() # başlangıç karakter söyler - 0
+# result = result.end() # bitiş karakterini söyler - 6
+# result = result.group() # bulunan ifadeyi gösterir
+# result = result.string # arama işleminin yapıldığı string ifadeyi verir
 # print(result)
 
 
@@ -67,7 +66,7 @@ str = "Python Kursu: Python Programlama Rehberiniz | 40 saat"
 
 """
 
-# result = re.findall("...",str)
+# result = re.findall("...",str) # 3 lü grup gelir
 # result = re.findall("Py..on", str)
 
 
@@ -79,8 +78,8 @@ str = "Python Kursu: Python Programlama Rehberiniz | 40 saat"
           bac: No match
 """
 
-result = re.findall("^a",str)
-result = re.findall("^P",str)
+# result = re.findall("^a",str)
+# result = re.findall("^P",str) # sitringin en başı
 
 
 """
@@ -91,8 +90,9 @@ result = re.findall("^P",str)
          Python : No match
 """
 
-result = re.findall("t$",str)
-
+# result = re.findall("t$",str)
+# result = re.findall("saat$",str)
+# result = re.findall("saatt$",str) # rgelmez
 
 """
 
@@ -104,7 +104,7 @@ result = re.findall("t$",str)
              maaan  :1 match
              main   :No match (a'nın arkasına n gelmiyor.)
 """
-result = re.findall("sa*t", str)
+# result = re.findall("sa*t", str)
 
 
 """

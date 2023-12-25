@@ -1,7 +1,7 @@
 import json
 from os import waitpid
 
-person_string = '{"name": "Sema", "languages": ["Python","JavaScript"]}'
+person_string = '{"name": "Aaaa", "languages": ["Python","JavaScript"]}'
 # result = person["name"]
 # result = person["languages"]
 # print(result)
@@ -18,12 +18,12 @@ person_string = '{"name": "Sema", "languages": ["Python","JavaScript"]}'
 
 
 # Dict to JSON string 
-person_dict = {"name": "Sema", "languages": ["Python", "C#"]}
+person_dict = {"name": "Aaaa", "languages": ["Python", "C#"]}
 
 # result = json.dumps(person_dict)
 # print(result)
 # print(type(result))
 
-with open("person.json", "w") as file:
+with open("../../../python_temelleri-master/python_temelleri-master/15-Advanced Python Modülleri/person.json", "w") as file:
     json.dump(person_dict, file)
     
