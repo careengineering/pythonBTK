@@ -206,21 +206,21 @@ Müfredat
 
 15. İleri Seviye Python Modülleri & Web Scraping
 
-15.1_Pythonda Datatime Modülü
+15.1_Pythonda Datatime Modülü :thumbsup:
 
-15.2_Pythonda Os Modülü
+15.2_Pythonda Os Modülü :thumbsup:
 
-15.3_Pythonda Regular Expression Modülü
+15.3_Pythonda Regular Expression Modülü :thumbsup:
 
-15.4_Pythonda Json Modülü
+15.4_Pythonda Json Modülü :thumbsup:
 
-15.5_Demo - Python Json Modülü
+15.5_Demo - Python Json Modülü :thumbsup:
 
-15.6_Pythonda Requests Modülü
+15.6_Pythonda Requests Modülü :thumbsup:
 
-15.7_Uygulama - Requests Modülü - Exchange Api ile Döviz Uygulaması
+15.7_Uygulama - Requests Modülü - Exchange Api ile Döviz Uygulaması :thumbsup:
 
-15.8_Uygulama - Requests Modülü - Github Api
+15.8_Uygulama - Requests Modülü - Github Api :thumbsup:
 
 15.9_Uygulama - Requests Modülü - Film Arşiv Apisi
 
