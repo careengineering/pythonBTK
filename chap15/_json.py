@@ -1,29 +1,34 @@
 import json
-from os import waitpid
 
-person_string = '{"name": "Aaaa", "languages": ["Python","JavaScript"]}'
-# result = person["name"]
-# result = person["languages"]
-# print(result)
+#cihazlar araında ortak bir veri taşıma objesi diyebiliriz
+person_string = '{"name":"aaa", "languages": ["python", "C++"]}'
+person_dict = { "name": "bbb", "languages": ["Python","C#"]}
 
-# JSON string to Dict
 
+#JSON string to Dict
 # result = json.loads(person_string)
+# result = result["name"]
+# result = result["languages"]
 # print(result)
 
-# with open("person.json") as f:
+# with open ("person.json") as f:
 #     data = json.load(f)
 #     print(data["name"])
+#     print(data["languages"])
 
 
 
-# Dict to JSON string 
-person_dict = {"name": "Aaaa", "languages": ["Python", "C#"]}
 
+
+#Dict to JSON
 # result = json.dumps(person_dict)
 # print(result)
 # print(type(result))
 
-with open("../../../python_temelleri-master/python_temelleri-master/15-Advanced Python Modülleri/person.json", "w") as file:
-    json.dump(person_dict, file)
-    
+# with open("person.json","w") as f:
+#     json.dump(person_dict,f)
+
+person_dict = json.loads(person_string)
+result = json.dumps(person_dict, indent = 4, sort_keys=True)
+print(person_dict)
+print(result)
