@@ -3,12 +3,19 @@
 # https://api.github.com/users/xxx/repos
 
 import requests
+import os
+import json
 
 
 class Github:
     def __init__(self):
         self.api_url = 'https://api.github.com'
-        self.token = "ghp_xxxxxxx"
+
+        # byme - token key saklama
+        if os.path.exists("mykeys.json"):
+            with open("mykeys.json", "r", encoding="utf-8") as file:
+                results = json.load(file)
+            self.github_token = results["github_token"]
 
     def getUser(self,username):
         response = requests.get(self.api_url+'/users/'+ username)
@@ -19,7 +26,7 @@ class Github:
         return response.json()
     
     def createRepository(self,name):
-        response = requests.post(self.api_url+'/user/repos?access_token='+self.token,json = {
+        response = requests.post(self.api_url+'/user/repos?access_token='+self.github_token,json = {
             "name": name,
             "description": "This is your first repository",
             "homepage": "https://aaaa.com",
@@ -32,7 +39,7 @@ class Github:
         # print(response.status_code)
         
     def deleteRepository(self,name,username):
-        response = requests.delete(self.api_url+'/repos/' + username + '/'+name+'?access_token='+self.token)
+        response = requests.delete(self.api_url+'/repos/' + username + '/'+name+'?access_token='+self.github_token)
         print(response.status_code)
 
 

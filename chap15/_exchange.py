@@ -1,7 +1,13 @@
 import requests 
 import json
+import os
 
-api_key = "a1a8c84e5a8d4ae56dc97785"
+# byme - auth key saklama
+if os.path.exists("mykeys.json"):
+    with open("mykeys.json", "r", encoding="utf-8") as file:
+        results = json.load(file)
+    api_key = results["exchange_api_key"]
+
 api_url = f"https://v6.exchangerate-api.com/v6/{api_key}/latest/"
 
 bozulan_doviz = input("Bozulan Döviz Türü: ") # USD

@@ -222,9 +222,9 @@ Müfredat
 
 15.8_Uygulama - Requests Modülü - Github Api :thumbsup:
 
-15.9_Uygulama - Requests Modülü - Film Arşiv Apisi
+15.9_Uygulama - Requests Modülü - Film Arşiv Apisi :thumbsup:
 
-15.10_Temel Html Bilgilendirmesi
+15.10_Temel Html Bilgilendirmesi :thumbsup:
 
 15.11_Pythonda BeatifulSoup Modülü
 
