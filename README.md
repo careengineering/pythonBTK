@@ -204,7 +204,7 @@ Müfredat
 14.1_Pythonda Generators :thumbsup:
 
 
-15. İleri Seviye Python Modülleri & Web Scraping
+15. İleri Seviye Python Modülleri & Web Scraping :thumbsup:
 
 15.1_Pythonda Datatime Modülü :thumbsup:
 
@@ -226,11 +226,11 @@ Müfredat
 
 15.10_Temel Html Bilgilendirmesi :thumbsup:
 
-15.11_Pythonda BeatifulSoup Modülü
+15.11_Pythonda BeatifulSoup Modülü :thumbsup:
 
-15.12_Web Scraping - BeatifulSoup Modülü - Imdb
+15.12_Web Scraping - BeatifulSoup Modülü - Imdb :thumbsup:
 
-15.13_Web Scraping - BeatifulSoup Modülü - N11
+15.13_Web Scraping - BeatifulSoup Modülü - N11 :thumbsup:
 
 16. Python İle Bot Yazımı
 
