@@ -1,26 +1,23 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://www.imdb.com/chart/top/"
+url = 'https://www.imdb.com/chart/top/?ref_=nv_mv_250'
 
-# response = requests.get(url)
+headers = {
+           "Accept": "application/json, text/plain, */*",
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
+           "Referer": "https://www.imdb.com/"
+           }
 
-# content = response.content
-
-# print(content) - daha kısası aşağıda
-
-html = requests.get(url).content
+html = requests.get(url,headers=headers).content
 soup = BeautifulSoup(html, "html.parser")
 
-list = soup.find("tbody", {"class": "lister-list"}).find_all("tr", limit=50)
+movies = soup.find("ul", {"class" : "ipc-metadata-list" } ).find_all("li", limit=10)
 
-count = 1
+for movie in movies:
+    name = movie.find("h3", {"class": "ipc-title__text"}).text
+    ratingStar = movie.find("span", {"class": "ipc-rating-star"}).text
+    print(name, ratingStar)
 
-for tr in list:
-    title = tr.find("td", {"class": "titleColumn"}).find("a").text
-    year= tr.find("td", {"class": "titleColumn"}).find("span").text.strip("()")
-    rating = tr.find("td", {"class": "ratingColumn imdbRating"}).find("strong").text
-    
-    print(f"{count}- Film: {title.ljust(50)} Yıl: {year} Değerlendirme: {rating}")
-    count+=1
+
 
