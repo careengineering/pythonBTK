@@ -234,9 +234,9 @@ Müfredat
 
 16. Python İle Bot Yazımı
 
-16.1_Selenium Nedir ve Nasıl Kurulur?
+16.1_Selenium Nedir ve Nasıl Kurulur? :thumbsup:
 
-16.2_Selenium Temelleri
+16.2_Selenium Temelleri :thumbsup:
 
 16.3_Selenium için Selectors Bilgisi
 
