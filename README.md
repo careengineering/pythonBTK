@@ -232,17 +232,17 @@ Müfredat
 
 15.13_Web Scraping - BeatifulSoup Modülü - N11 :thumbsup:
 
-16. Python İle Bot Yazımı
+16. Python İle Bot Yazımı :thumbsup:
 
 16.1_Selenium Nedir ve Nasıl Kurulur? :thumbsup:
 
 16.2_Selenium Temelleri :thumbsup:
 
-16.3_Selenium için Selectors Bilgisi
+16.3_Selenium için Selectors Bilgisi :thumbsup:
 
-16.4_Selenium ile Sayfa Etkileşimi
+16.4_Selenium ile Sayfa Etkileşimi :thumbsup:
 
-16.5_Uygulama - Github Takipçi Listesinin Alınması
+16.5_Uygulama - Github Takipçi Listesinin Alınması :thumbsup:
 
 17. Selenium Instagram Bot
 
@@ -270,9 +270,9 @@ Müfredat
 
 19. Veri Analizi - Numpy
 
-19.1_Numpy Nedir?
+19.1_Numpy Nedir? :thumbsup:
 
-19.2_Numpy Dizileri ile Çalışma
+19.2_Numpy Dizileri ile Çalışma :thumbsup:
 
 19.3_Numpy Dizilerinin Indekslenmesi
 

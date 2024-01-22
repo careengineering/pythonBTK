@@ -10,9 +10,10 @@ driver = webdriver.Chrome()
 url = "http://github.com"
 driver.get(url)
 
-searchInput = driver.find_element(By.NAME, 'query-builder-test') #selenium güncelleme
+# searchInput = driver.find_element(By.ID, 'query-builder-test') #selenium güncelleme
 
-# searchInput = driver.find_element_by_xpath("/html/body/div[1]/header/div/div[2]/div[2]/div/div/div/form/label/input[1]")
+searchInput = driver.find_element(By.XPATH, '/html/body/div[1]/div[1]/header/div/div[2]/div/div/qbsearch-input/div[1]/div/modal-dialog/div/div/div/form/query-builder/div[1]/div[1]/div/div[2]/input')
+
 time.sleep(1)
 
 searchInput.send_keys("python")
@@ -21,9 +22,12 @@ time.sleep(2)
 searchInput.send_keys(Keys.ENTER)
 time.sleep(2)
 
-result = driver.find_element(By.CSS_SELECTOR, '.repo-list-item h3 a')
+result = driver.page_source
+print(result)
 
-for element in result:
-    print(element.text)
+# result = driver.find_element(By.CSS_SELECTOR, '.repo-list-item h3 a')
+
+# for element in result:
+#    print(element.text)
 
 driver.close()
